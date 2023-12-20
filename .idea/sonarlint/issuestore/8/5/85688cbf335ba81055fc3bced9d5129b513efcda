@@ -1,0 +1,26 @@
+
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©©ıÿÿÿÿ8ÎĞß…È1
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º€ŸÙ8ÎĞß…È1
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó«£şÿÿÿÿ8ÎĞß…È1
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë»ŞŞıÿÿÿÿ8ÏĞß…È1
+m	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è–€¸8ÏĞß…È1
+t	java:S116"XRename this field "map_structure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÖ‰Î8¾êÂ„È1
+o	java:S116	"TRename this field "data_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¯j8¾êÂ„È1
+q	java:S116
+"URename this field "size_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êúçÿ8¾êÂ„È1
+x	java:S116"WRename this field "random_query" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥£Œ¿úÿÿÿÿ8¾êÂ„È1
+t	java:S116"XRename this field "_memory_usage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”©ÙÈ8¾êÂ„È1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎİÙşÿÿÿÿ8Š‚Ä„È1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÌÌê8ãÄ€†È1
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©©ıÿÿÿÿ8Œ‚Ä„È1
+o	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( á¿áûÿÿÿÿ8‚Ä„È1
+j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º€ŸÙ8‚Ä„È1
+j	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦¼‡8‚Ä„È1
+o	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó«£şÿÿÿÿ8‚Ä„È1
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÜ»êúÿÿÿÿ8’‚Ä„È1
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë»ŞŞıÿÿÿÿ8“‚Ä„È1
+o	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÆíÑıÿÿÿÿ8•‚Ä„È1
+j	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è–€¸8•‚Ä„È1
+X	java:S125["<This block of commented-out lines of code should be removed.(Ú°à¬8ÂêÂ„È1
+d
+java:S1128"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8áĞß…È1

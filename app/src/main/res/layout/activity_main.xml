@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HashvsArray">
+
+    <EditText
+        android:id="@+id/editTextDataSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Data Size"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/btnPerformOperations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextDataSize"
+        android:layout_marginTop="16dp"
+        android:text="Perform Operations"/>
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnPerformOperations"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/tvMemoryInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvResult"
+        android:layout_marginTop="16dp"/>
+</RelativeLayout>

@@ -1,0 +1,22 @@
+
+[
+java:S1192O"EDefine a constant instead of duplicating this literal " MB
+" 3 times.(³¸¯ø
+C
+java:S1604'"(Make this anonymous inner class a lambda(ù²²ışÿÿÿÿ
+C
+java:S1604/"(Make this anonymous inner class a lambda(êÄƒ³şÿÿÿÿ
+C
+java:S16047"(Make this anonymous inner class a lambda(“©Çùÿÿÿÿ
+C
+java:S1604?"(Make this anonymous inner class a lambda(ÄãÂ™ıÿÿÿÿ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(©Õ¡Ì
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(—½Ïİ
+U
+java:S1854ƒ"9Remove this useless assignment to local variable "value".(”¾Òçşÿÿÿÿ
+4
+java:S2119"Save and re-use this "Random".(ŸÚ
+F
+java:S1481ƒ"*Remove this unused "value" local variable.(”¾Òçşÿÿÿÿ
+4
+java:S2119“"Save and re-use this "Random".(¼İÅf
